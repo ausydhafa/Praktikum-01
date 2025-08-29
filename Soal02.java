@@ -44,5 +44,13 @@ public class Soal02 {
     //Printing the maximum and minimum numbers
     System.out.println("The maximum number is: " + max);
     System.out.println("The minimum number is: " + min);
+
+    //Printing a personal signature
+    System.out.println(  "               .___,\r\n" + //
+                        "            ___('v')___\r\n" + //
+                        "            `\"-\\._./-\"'\r\n" + //
+                        "                ^ ^\r\n" + //
+                        "-------------------------------------");
+    System.out.println("Ausy Dhafa Adhitama (NPM: 2406417954)"); 
     }
 }
