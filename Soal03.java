@@ -26,5 +26,13 @@ public class Soal03 {
         else{
             System.out.println("Incorrect. The correct answer would be: " + correctAnswer);
         }
+
+        //Printing a personal signature
+        System.out.println(  "               .___,\r\n" + //
+                            "            ___('v')___\r\n" + //
+                            "            `\"-\\._./-\"'\r\n" + //
+                            "                ^ ^\r\n" + //
+                            "-------------------------------------");
+        System.out.println("Ausy Dhafa Adhitama (NPM: 2406417954)"); 
     }
 }
